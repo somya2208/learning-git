@@ -1,4 +1,4 @@
 # learning-git
 this is my first git repo
 <br>
-author somya gupta
+author somya gupta (BITS Pilani)
